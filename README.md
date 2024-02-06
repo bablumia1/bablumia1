@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bablu Mia</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+  <p align="center">I am reaching out to inform you that I have created a new profile. Regrettably, my previous account has been flagged, and I am now transitioning to this new profile. Thank you for your understanding and support during this transition period.</p>
 
 - 🌱 I’m currently learning **TypeScript Next JS**
 
