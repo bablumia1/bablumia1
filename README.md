@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bablu Mia</h1>
-  <p align="center">I am reaching out to inform you that I have created a new profile. Regrettably, my previous account has been flagged, and I am now transitioning to this new profile. Thank you for your understanding and support during this transition period.</p>
+<p align="center">I am reaching out to inform you that I have created a new profile. <span style="color:red">Unfortunately, my previous account has been flagged</span>, and I am now transitioning to this new profile. Thank you for your understanding and support during this transition period. Rest assured, as soon as possible, I will work towards restoring my previous account and continue from there.</p>
 
 
-<a href="https://ibb.co/WnZ8PKm"><img src="https://i.ibb.co/Zd54YTq/Fire-Shot-Capture-001-Bablu22-Bablu-Mia-github-com.png" alt="Fire-Shot-Capture-001-Bablu22-Bablu-Mia-github-com" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>png files instagram</a><br />
+<a href="https://ibb.co/WnZ8PKm"><img src="https://i.ibb.co/Zd54YTq/Fire-Shot-Capture-001-Bablu22-Bablu-Mia-github-com.png" alt="Fire-Shot-Capture-001-Bablu22-Bablu-Mia-github-com" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
+<br />
 
 
 
